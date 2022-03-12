@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amankose
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript, frontend and backend programming.
+- 👀 I’m interested in Software Development and Web Development.
+- 🌱 I’m currently learning Python, Django, Javascript, frontend and backend programming.
 - 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me insta id aman_kose.
 
